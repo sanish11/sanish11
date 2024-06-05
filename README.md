@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanish Maharjan</h1>
 <h3 align="center">A passionate DevOps engineer from Nepal.</h3>
 
-- 🔭 I’m currently working on **Jenkins, Puppet, Ansible, AWS**
+- 🔭 I’m currently working on **Jenkins, Puppet, Ansible, AWS, VM's, Deployment, Networking**
 
 - 🌱 I’m currently learning **AWS, KUBERNETES**
 
