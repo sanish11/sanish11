@@ -72,9 +72,6 @@
     <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/> 
     </a>
-     <a href="https://www.netdata.cloud/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/netdata/netdata-icon.svg" alt="netdata" width="40" height="40"/> 
-    </a>
     <a href="https://puppet.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" width="40" height="40"/> 
     </a>
